@@ -24,6 +24,7 @@ struct RecipeCard: View {
                             .shadow(color: .black, radius: 3, x: 0, y: 0)
                             .frame(maxWidth: 136)
                             .padding()
+                            .padding(.bottom)
                     }
             } placeholder: {
                 // placeholder in case image fails to load

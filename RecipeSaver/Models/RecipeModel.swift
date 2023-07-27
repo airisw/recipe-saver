@@ -70,5 +70,14 @@ extension Recipe {
         directions: "Fill a pitcher with ice, and set aside.\nAdd the coconut milk, the condensed milk, the coconut water, and the cachaça to a blender and blend until combined and frothy.\nPour the coconut cocktail into the iced pitcher, and sprinkle a little toasted coconut on top.\nServe on toasted coconut rimmed glasses!",
         category: "Drink",
         datePublished: "2019-09-22",
-        url: "https://braziliankitchenabroad.com/brazilian-coconut-cocktail/")]
+        url: "https://braziliankitchenabroad.com/brazilian-coconut-cocktail/"),
+    Recipe(
+        name: "Brazilian Potato Salad",
+        image: "https://braziliankitchenabroad.com/wp-content/uploads/2020/06/maionese-de-batata-7.jpg",
+        description: "This Brazilian Potato salad is a classic side dish in Brazilian gatherings, especially churrasco barbecues. This cool and creamy dish is perfect for feeding a crowd, and the best part is – you only need about four ingredients to make it. It’s an easy potato dish that pairs with everything all year long, from summer barbecues to holiday parties.",
+        ingredients: "2 lbs of yellow potatoes peeled and diced\n3 cups large carrots peeled and diced\n1/2 cup mayonnaise or more if you like it creamier\n1/4 cup of chopped parsley\nsalt and pepper to taste",
+        directions: "Place the diced potatoes and carrots in a medium to large pan, then add enough cold water to cover. Season generously with salt, and place over medium heat and bring to gentle a boil.\nCook until the potatoes and carrots are tender all the way through when gently pierced with a fork.\nWhen they are cooked, remove the pan from the heat and drain the hot water.\nPlace the cooked carrots and potatoes in a strainer, and run some cold water to stop the cooking process and avoid the potatoes to overcook with the residual heat.\nWhen the carrots and potatoes are cool to touch, stop the water and let them sit for a few minutes in the strainer to drain.\nAdd the cooled potatoes to a large bowl, season with salt and pepper, and mix in the mayonnaise and the chopped parsley.\nCover and refrigerate a few hours before serving.",
+        category: "Side",
+        datePublished: "2017-08-30",
+        url: "https://braziliankitchenabroad.com/mayo-potato-salad/")]
 }
